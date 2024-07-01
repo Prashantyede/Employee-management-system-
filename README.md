@@ -15,7 +15,7 @@ Git (optional, for version control)
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/employee-management-api.git
+git clone https://github.com/Prashantyede/Employee-management-system-.git
 Navigate to the project directory: cd employee-management-api
 
 Configure MySQL Database:
